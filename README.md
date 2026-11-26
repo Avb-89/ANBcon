@@ -35,9 +35,20 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> "$HOME/.zshrc" && source "$HOME/.
 
 ## Имеет MCP (локальный)
 
-функциональность такая же как и cli
+функциональность такая же как и cli,
 прописаны дополнительные инструкции для ии
 
+### Подключить
+```json
+JSON{
+  "mcpServers": {
+    "anbcon": {
+      "command": "/Users/твой_юзер/.local/bin/anbcon",
+      "args": ["--mcp"]
+    }
+  }
+}
+```
 ## Где смотреть подробности
 
 ```sh
