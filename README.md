@@ -18,6 +18,11 @@ anbcon — консольная утилита для работы с Apple Note
 
 ### Установка на macOS
 
+Скачать [anbcon][https://github.com/Avb-89/ANBcon/releases/download/v1.0.0/anbcon] или если есть свежую [версию](https://github.com/Avb-89/ANBcon/releases/), открыть терминал и перейти в папку в которую скачали
+```
+cd ~/Downloads
+```
+и можно копипастом вставить эти строчки. он перекинет программу в домашнюю директорию и пропишет пути для zsh чтобы программа вызывалась командой anbcon 
 ```
 mkdir -p "$HOME/.local/bin" && cp ./anbcon "$HOME/.local/bin/anbcon" && chmod +x "$HOME/.local/bin/anbcon"
 ```
