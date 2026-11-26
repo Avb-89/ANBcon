@@ -18,7 +18,7 @@ anbcon — консольная утилита для работы с Apple Note
 
 ### Установка на macOS
 
-Скачать [anbcon][https://github.com/Avb-89/ANBcon/releases/download/v1.0.0/anbcon] или если есть свежую [версию](https://github.com/Avb-89/ANBcon/releases/), открыть терминал и перейти в папку в которую скачали
+Скачать [anbcon](https://github.com/Avb-89/ANBcon/releases/download/v1.0.0/anbcon) или если есть свежую [версию](https://github.com/Avb-89/ANBcon/releases/), открыть терминал и перейти в папку в которую скачали
 ```
 cd ~/Downloads
 ```
